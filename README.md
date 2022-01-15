@@ -3,7 +3,7 @@ Programa para estimar o salário liquido e bruto de um trabalhador horista sob r
 
 # Introdução
 
-Frequentemente trabalhadores em regime CLT que recebem por hora tem dificuldades de compreender e estimar com clareza o salario final em função do salario base e das horas trabalhadas. Esse programa tem a finalidade de elaborar os calculos e estimar o salario liquido e bruto em função das horas trabalhadas e do salario base, bem como os descontos. 
+Frequentemente trabalhadores em regime CLT que recebem por hora tem dificuldades de compreender e estimar com clareza seu salario final. Esse programa tem a finalidade de elaborar os calculos e estimar o salario liquido e bruto em função das horas trabalhadas e do salario base, bem como os descontos. 
 
 Esse programa não substitui o trabalho de um contador, é apenas uma referência para ajudar o trabalhador horista a estimar seu salario e compreender melhor seu holerite.
 
