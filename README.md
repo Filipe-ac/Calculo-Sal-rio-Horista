@@ -15,7 +15,7 @@ Chamar a classe 'salario_horista' e passar os argumentos:
   - extras: Adicionais tributaveis que eventualmente incidem no mês (lista)
   - hora_atividade: Proporção a ser acrescentada nas horas trabalhadas
 
-As informações são compiladas em um DataFrame (Pandas) contendo os salarios liquidos e bruto, bem como os descontos relativos a imposto de renda e INSS
+As informações são compiladas em um DataFrame (Pandas) contendo o salário liquido e bruto, bem como os descontos relativos a imposto de renda e INSS
 
 A função 'exemplo' descreve um uso tipico
 
