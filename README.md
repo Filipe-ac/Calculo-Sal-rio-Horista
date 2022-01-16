@@ -13,7 +13,7 @@ Chamar a classe 'salario_horista' e passar os argumentos:
   - hora_aula: Valor da hora de trabalho
   - horas_trabalhadas: Quantidade de horas trabalhadas no mes
   - extras: Adicionais tributaveis que eventualmente incidem no mês (lista)
-  - hora_atividade: Proporcao a ser acrescentada nas horas trabalhadas
+  - hora_atividade: Proporção a ser acrescentada nas horas trabalhadas
 
 As informações são compiladas em um DataFrame (Pandas) contendo os salarios liquidos e bruto, bem como os descontos relativos a imposto de renda e INSS
 
